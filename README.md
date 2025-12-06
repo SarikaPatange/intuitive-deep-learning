@@ -1,7 +1,7 @@
 
 # Intuitive Deep Learning
-**Modified by:** Sarika Patange
-**Original Author:** josephlee94
+>**Modified by:** Sarika Patange
+>**Original Author:** josephlee94
 Credits: This program is based on the work of josephlee94
 Refernce: https://github.com/josephlee94/intuitive-deep-learning/tree/master
 
